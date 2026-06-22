@@ -1,4 +1,4 @@
-# IMPORTACIONES karaoke Henry Fiestas
+# IMPORTACIONES karaoke  Fiestas ,todo bien
 import webbrowser
 
 # FUNCIÓN: KARAOKE (ARCHIVOS + LISTAS + MENÚ)
