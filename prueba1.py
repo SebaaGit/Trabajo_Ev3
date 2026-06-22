@@ -66,3 +66,4 @@ cachipun()
 # Condicionales: determinan ganador
 # Funciones: separan el programa en partes
 # Ejecución final: inicia el juego
+# El becario juan lismoya
