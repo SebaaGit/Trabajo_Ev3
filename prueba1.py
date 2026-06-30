@@ -1,11 +1,16 @@
 # IMPORTACIONES karaoke  Fiestas ,todo bien
 import webbrowser
+import os
 
 # FUNCIÓN: KARAOKE (ARCHIVOS + LISTAS + MENÚ)
 def karaoke():
 
 # ARCHIVO: lectura del txt
-    archivo = open("canciones.txt", "r", encoding="utf-8")
+    # Ruta absoluta basada en la ubicación del script
+    carpeta = os.path.dirname(os.path.abspath(__file__))
+    ruta_archivo = os.path.join(carpeta, "canciones.txt")
+    
+    archivo = open(ruta_archivo, "r", encoding="utf-8")
     canciones = archivo.readlines()
     archivo.close()
 
