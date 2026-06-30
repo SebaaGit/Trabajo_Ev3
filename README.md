@@ -65,9 +65,9 @@ Al final del archivo, se llama a `cachipun()`, lo que pone en marcha todo el jue
 
 ## ▶️ ¿Cómo ejecutarlo?
 
-1. Asegúrate de tener Python instalado.
-2. Crea un archivo `canciones.txt` en la misma carpeta, con el formato `nombre|link`.
-3. Ejecuta el archivo principal:
+1. Tener Git y Python instalados en tu Dispositivo y VStudio Code
+2. en la terminal, usar: Git clone https://github.com/SebaaGit/Trabajo_Ev3/tree/main
+3. ejecutar
 
 ```bash
 python prueba1.py
@@ -81,6 +81,6 @@ python prueba1.py
 
 Proyecto desarrollado como parte de una presentación universitaria sobre Git y GitHub 🎓
 ---
-|Henry [apellido pendiente, no me responde el wasa] - Lider del Proyecto, Programacion|
-|Sebastian Pacheco - Programacion|
-|Guillermo De la Cruz - Github README, Programacion|
+- Henry - Lider del Proyecto, Programacion
+- Sebastian Pacheco - Programacion
+- Guillermo De la Cruz - Github README, Programacion
