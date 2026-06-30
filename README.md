@@ -80,6 +80,7 @@ python prueba1.py
 ## 👨‍💻 Créditos
 
 Proyecto desarrollado como parte de una presentación universitaria sobre Git y GitHub 🎓
-Henry [apellido pendiente, no me responde el wasa] - Lider del Proyecto, Programacion
-Sebastian Pacheco - Programacion
-Guillermo De la Cruz - Github README, Programacion
+---
+|Henry [apellido pendiente, no me responde el wasa] - Lider del Proyecto, Programacion|
+|Sebastian Pacheco - Programacion|
+|Guillermo De la Cruz - Github README, Programacion|
