@@ -1,8 +1,6 @@
 # 🎤 Cachipún x Karaoke 🎮
 
 ¡Bienvenido al proyecto **Cachipún x Karaoke**! Un programa en Python que combina el clásico juego chileno de **Cachipún** (piedra, papel o tijera) con una sesión de **karaoke**. El ganador de la partida es quien elige la canción para cantar 🎶
-
-creado para un proyecto universitario en el CFT estatal de valparaiso [viña del mar]
 ---
 
 ## 📖 ¿De qué trata?
