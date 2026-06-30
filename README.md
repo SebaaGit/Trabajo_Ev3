@@ -76,6 +76,6 @@ Al final del archivo, se llama a `cachipun()`, lo que pone en marcha todo el jue
 
 Proyecto desarrollado como parte de una presentación universitaria sobre Git y GitHub 🎓
 ---
-- Henry - Lider del Proyecto, Programacion
+- Henry Inzunza - Lider del Proyecto, Programacion
 - Sebastian Pacheco - Programacion
 - Guillermo De la Cruz - Github README, Programacion
