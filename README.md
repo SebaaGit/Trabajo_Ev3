@@ -68,11 +68,6 @@ Al final del archivo, se llama a `cachipun()`, lo que pone en marcha todo el jue
 1. Tener Git y Python instalados en tu Dispositivo y VStudio Code
 2. en la terminal, usar: `Git clone https://github.com/SebaaGit/Trabajo_Ev3.git`
 3. ejecutar
-
-```bash
-python prueba1.py
-```
-
 4. ¡Elige tu jugada y que gane la mejor voz! 🎤
 
 ---
