@@ -1,6 +1,5 @@
 # Juego Cachipún + Karaoke 
 # Henry Inzunza - Guillermo De la Cruz - Sebastian Pacheco
-# mira henry
 
 # IMPORTACIONES Biblioteca webbrowser
 import webbrowser
