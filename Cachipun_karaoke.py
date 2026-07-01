@@ -3,7 +3,7 @@
 
 # IMPORTACIONES Biblioteca webbrowser
 import webbrowser
-import os
+import os                                  #[AGREGADO PARA RESOLVER LA EJECUCION AL CLONAR]
 
 # FUNCIÓN: CACHIPÚN
 def cachipun():
@@ -38,8 +38,8 @@ def cachipun():
 # FUNCIÓN: KARAOKE
 def karaoke():
 
-    carpeta = os.path.dirname(os.path.abspath(__file__))
-    ruta_archivo = os.path.join(carpeta, "canciones_Cachipún_Karaoke.txt")
+    carpeta = os.path.dirname(os.path.abspath(__file__))                        #[AGREGADO PARA RESOLVER LA EJECUCION AL CLONAR]
+    ruta_archivo = os.path.join(carpeta, "canciones_Cachipún_Karaoke.txt")      #[AGREGADO PARA RESOLVER LA EJECUCION AL CLONAR]
     archivo = open(ruta_archivo, "r", encoding="utf-8")
 
     canciones = archivo.readlines()
