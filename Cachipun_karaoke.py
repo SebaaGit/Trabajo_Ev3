@@ -3,6 +3,7 @@
 
 # IMPORTACIONES Biblioteca webbrowser
 import webbrowser
+import os
 
 # FUNCIÓN: CACHIPÚN
 def cachipun():
@@ -37,7 +38,9 @@ def cachipun():
 # FUNCIÓN: KARAOKE
 def karaoke():
 
-    archivo = open("canciones_Cachipún_Karaoke.txt", "r", encoding="utf-8")
+    carpeta = os.path.dirname(os.path.abspath(__file__))
+    ruta_archivo = os.path.join(carpeta, "canciones_Cachipún_Karaoke.txt")
+    archivo = open(ruta_archivo, "r", encoding="utf-8")
 
     canciones = archivo.readlines()
 
